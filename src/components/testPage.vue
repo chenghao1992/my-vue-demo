@@ -28,7 +28,7 @@
       msg: 'learn vue',
       count:1,
       a:'计算属性初始值',
-      myNum:666,
+      myNum:6666,
       isActive:false
 //      imgArrs:[]
     }
